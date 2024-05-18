@@ -1,0 +1,22 @@
+.new-arrivals {
+    margin: 20px;
+    background-color: #333;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    border-radius: 5px;
+}
+.arrivals-heading h1 {
+    text-wrap: nowrap;
+    color: #ccc;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.learn-more-btn {
+    padding: 10px 15px;
+    background-color: #333;
+    color: #ccc;
+    border: 0;
+    border-radius: 5px;
+}
