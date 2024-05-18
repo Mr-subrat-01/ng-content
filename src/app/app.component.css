@@ -3,14 +3,14 @@
     background-color: #333;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    /* align-items: center; */
     gap: 10px;
     border-radius: 5px;
 }
 .arrivals-heading h1 {
-    text-wrap: nowrap;
+    text-wrap: wrap;
     color: #ccc;
-    margin-left: 10px;
+    margin-left: 20px;
     font-size: 20px;
 }
 .learn-more-btn {
